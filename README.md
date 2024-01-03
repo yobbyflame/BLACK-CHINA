@@ -3,7 +3,7 @@
   <a href="https://chat.whatsapp.com/JIJplkiYyrFE4dyFGade43">
     <img alt=Support height="350" src="https://i.imgur.com/Q89yqN1.png"> 
     </p>
-<h1 align="center">    BLACK-CHINA-MULTI-DEVICE (BETA)
+<h1 align="center">    BLACK-CHINA-MULTI-DEVICE
 </h1>
 <p align="center"> 
   
@@ -49,7 +49,7 @@
 <a href='https://github.com/yobbyflame/BLACK-CHINA/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
 ### 2. SCAN QR CODE
-<a href='https://replit.com/@yobbyflame/BLACK-CHINA-QR?v=1' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Scan Qr code-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
+<a href='https://replit.com/@naveeddogar/KING-MD-QR?v=1' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Scan Qr code-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
 
 
