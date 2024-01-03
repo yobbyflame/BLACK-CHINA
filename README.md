@@ -1,13 +1,13 @@
 </p>
 <p align="center">
   <a href="https://chat.whatsapp.com/JIJplkiYyrFE4dyFGade43">
-    <img alt=Support height="350" src="https://telegra.ph/file/a6b9bbde7feaa92c69c7b.jpg"> 
+    <img alt=Support height="350" src="https://i.imgur.com/Q89yqN1.png"> 
     </p>
 <h1 align="center">    BLACK-CHINA-MULTI-DEVICE (BETA)
 </h1>
 <p align="center"> 
   
-<p align="center"> A Whatsapp Bot Create By Naveed Dogar To Do Everything That Is Possible On WhatsApp
+<p align="center"> A Whatsapp Bot Cloned By yobbyflame 
  
   </a>
 </p>
